@@ -1,9 +1,6 @@
 # TravelBuddy: Automated Flight Price Comparator and Booking Assistant
 
 [![Platform: UiPath Studio](https://img.shields.io/badge/RPA_Platform-UiPath_Studio-orange?style=flat-square&logo=uipath)](https://www.uipath.com/)
-[![Target: Web Automation](https://img.shields.io/badge/Automation_Target-MakeMyTrip_%2F_GoIbibo-64ffda?style=flat-square)](https://www.makemytrip.com/)
-[![Core AI: UiPath Computer Vision](https://img.shields.io/badge/Core_AI-Computer_Vision_&_OCR-blue?style=flat-square)](https://docs.uipath.com/activities/other/latest/user-guide/computer-vision-activities)
-[![Output: Excel + Email](https://img.shields.io/badge/Output-Excel_%2B_SMTP_Email-green?style=flat-square)](https://docs.uipath.com/activities/other/latest/user-guide/excel-activities)
 
 **TravelBuddy** is an enterprise-grade Robotic Process Automation (RPA) solution built using **UiPath Studio** to automate real-time flight fare collation, cross-portal data validation, and automated clinical travel reporting. By replacing manual, high-frequency, and repetitive cross-browser window navigation, the bot ingests user parameters, applies robust UI scraping configurations, detects the absolute cheapest booking target, and structuralizes data delivery end-to-end.
 
